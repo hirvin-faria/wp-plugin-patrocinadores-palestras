@@ -13,3 +13,5 @@
 if(!defined('ABSPATH')) {
     die;
 }
+
+require_once plugin_dir_path(__FILE__) . '/includes/al-patrocinadores-palestras-widget.php';
